@@ -1,6 +1,6 @@
 <br>
 
-## <div align="center">** Store Sales Prediction: Exploratory Data Analysis on Store Sales Data**</div>
+## <div align="center">**Store Sales Prediction: Exploratory Data Analysis on Store Sales Data**</div>
 
 <details open>
 <summary>Introduction</summary>
